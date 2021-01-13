@@ -1,4 +1,4 @@
-package lexi.language.kotlin.ir.nodes
+package lexi.language.kotlin.ir.tast
 
 import scala.collection.mutable.ListBuffer
 
